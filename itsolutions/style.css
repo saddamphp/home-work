@@ -1,0 +1,10 @@
+.main{
+	width: 1000px; height: 500px; background:#E0FCFF;
+}
+.home{ background:#E98C73; }
+.start{ background:#FD5B2B; }
+.pic{
+	background-image: url("Capture.PNG");
+	width: 500px; height: 500px;
+}
+
